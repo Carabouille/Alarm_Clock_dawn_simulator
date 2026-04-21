@@ -101,8 +101,11 @@ The heat sink is necessary here cause the light need to be at least a 8W to diff
 But the light is also powered in 24V and if you do the calcul 
 
 P = U * I
+
 I = P / U
+
 I = 8 / 24 = 0,33 A 
+
 It's a lot for a little LED COB it can heat up to more than 100 degrees with the heat sink everything will be ok !
 
 If we watch the second picture we can see the others components 
