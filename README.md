@@ -34,6 +34,60 @@ Is not perfect of course but for my light skills in design I think it's really n
 # CAD 
 One of the main part of my project the CAD !
 Fot this I used the software Solidworks ( a french soft! COCORICO!)
+I'm in a toxic relationship with Solidworks sometime I love it, sometime I hate it...
+This soft is not easy to use but after some crash and bug I finally made a CAD wich I'm proud of !
+
+So for my project I had to work within certain constraints 
+
+- a specfif screen size
+- a way to difuse the light
+- a heat sink for the light
+- some buttons
+- a battery
+- a speaker
+- a hole for the USB C port
+
+And with all thats I need to find a good idea of design 
+
+My first idea was a shape like the giant telescope like we can see in the American dessert.
+But I have never obtain a result that I like
+
+So I completly changed my idea to have a Zen garden on the top of my alarm clock
+With a tree, plants and a river ! 
+
+It looks like this : 
+
+<img src=Pictures/box.png width="300"/>
+
+yes that is not the same that on the zine page,
+Solidworks is not really good to do rendenring
+
+But all the parts are here and I even find it cool ! 
+I really love that the PCB is not hide by all the case, it's cool to see it
+
+On this picture we can see : the screen, the PCB, the UwU logo, the oak log and the buttons on the side
+
+If we move to the top we can see the Zen garden 
+
+<img src=Pictures/top_box.png width="300"/>
+
+We can see :
+- The hole on the top for the cherry tree
+- The river on the front
+- The switch to shut down the alarm
+- The green is for the artificial moss
+- and the servo motor
+
+The servo motor is here to hide the light during the day with moss on it. And when is it the time to turn the light on the servo motor move the piece of plastic with moss on it that hide the light to let the light illuminate the room.
+So the light system is invisible the day !
+
+  The servo motor is not hidden by the case cause the moss will recover it.
+
+  And on the switch I'll put a little japenese temple like we can see on the poster.
+
+
+
+
 
 # PCB
 
