@@ -11,7 +11,7 @@ I'm not a good designer but I think that I made a good poster
 
 ET VOILA : 
 
-<img src=Pictures/Zine_page_pic.jpg width="300"/>
+<img src=Pictures/Zine_page_pic.jpg width="500"/>
 
 The design idea is pretty simple the alarm clock in the center and some arrows to explain the different parts of the project
 I explain here 7 features : 
@@ -57,7 +57,7 @@ With a tree, plants and a river !
 
 It looks like this : 
 
-<img src=Pictures/box.png width="300"/>
+<img src=Pictures/box.png width="400"/>
 
 yes that is not the same that on the zine page,
 Solidworks is not really good to do rendenring
@@ -69,7 +69,7 @@ On this picture we can see : the screen, the PCB, the UwU logo, the oak log and 
 
 If we move to the top we can see the Zen garden 
 
-<img src=Pictures/top_box.png width="300"/>
+<img src=Pictures/top_box.png width="400"/>
 
 We can see :
 - The hole on the top for the cherry tree
@@ -81,10 +81,30 @@ We can see :
 The servo motor is here to hide the light during the day with moss on it. And when is it the time to turn the light on the servo motor move the piece of plastic with moss on it that hide the light to let the light illuminate the room.
 So the light system is invisible the day !
 
-  The servo motor is not hidden by the case cause the moss will recover it.
+The servo motor is not hidden by the case cause the moss will recover it.
 
-  And on the switch I'll put a little japenese temple like we can see on the poster.
+And on the switch I'll put a little japenese temple like we can see on the poster.
 
+Let's make the walls transparent to see what there are inside the box !
+
+<img src=Pictures/top_box2.png width="400"/>
+
+<img src=Pictures/back_box.png width="400"/>
+
+
+Yes there are a lot of things inside it ! 
+
+We can see well on the first picture the servo motor as we saw earlier
+And the light with the heat sink 
+The heat sink is necessary here cause the light need to be at least a 8W to diffuse a minimum of the light to wake you. 
+But the light is also powered in 24V and if you do the calcul 
+
+P = U * I
+I = P / U
+I = 8 / 24 = 0,33 A 
+It's a lot for a little LED COB it can heat up to more than 100 degrees with the heat sink everything will be ok !
+
+If we watch the second picture we can see the others components 
 
 
 
