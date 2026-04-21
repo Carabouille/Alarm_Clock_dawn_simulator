@@ -11,7 +11,7 @@ I'm not a good designer but I think that I made a good poster
 
 ET VOILA : 
 
-<img src=Pictures/Zine_page_pic.jpg width="300"/>
+<img src=Pictures/Zine_page_alarm_clock.pdf width="300"/>
 
 
 # CAD 
