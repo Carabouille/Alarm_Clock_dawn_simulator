@@ -1,5 +1,5 @@
 # Alarm_Clock_dawn_simulator
-Hello I'm Carabouille and this is my GitHub to present you my project for Fallout !
+Hello I'm Carabouille a french guy who love tech and hardware and this is my GitHub to present you my project for Fallout !
 I'm gonna present you my alarm clock with dawn simulator feature ! 
 
 # The idea 
@@ -11,10 +11,29 @@ I'm not a good designer but I think that I made a good poster
 
 ET VOILA : 
 
-<img src=Pictures/Zine_page_alarm_clock.pdf/>
+<img src=Pictures/Zine_page_pic.jpg width="300"/>
+
+The design idea is pretty simple the alarm clock in the center and some arrows to explain the different parts of the project
+I explain here 7 features : 
+- The oak log for the base
+- All the PCB
+- The touch screen
+- The Zen river
+- The light for the dawn simulator feature
+- The switch on the top
+- And the switchs and the potar on the side
+
+My favourite color is the pink (hard to guess ^^)
+I really love the cherry flower in the background that remind the cherry tree on the top of the alarm.
+The UwU logo is everywhere cause with my friends it's a private joke since a few years.
+I love the way that the "Fallout" goes behind the box.
+
+Is not perfect of course but for my light skills in design I think it's really nice, I'm proud of it ! 
 
 
 # CAD 
+One of the main part of my project the CAD !
+Fot this I used the software Solidworks ( a french soft! COCORICO!)
 
 # PCB
 
