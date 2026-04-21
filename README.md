@@ -21,6 +21,7 @@ I explain here 7 features :
 - The Zen river
 - The light for the dawn simulator feature
 - The switch on the top
+- A battery (in case the electricty is shutting down)
 - And the switchs and the potar on the side
 
 My favourite color is the pink (hard to guess ^^)
@@ -95,7 +96,7 @@ Let's make the walls transparent to see what there are inside the box !
 Yes there are a lot of things inside it ! 
 
 We can see well on the first picture the servo motor as we saw earlier
-And the light with the heat sink 
+And the light with the heat sink who is carry by a support fiw with screw to the box
 The heat sink is necessary here cause the light need to be at least a 8W to diffuse a minimum of the light to wake you. 
 But the light is also powered in 24V and if you do the calcul 
 
@@ -106,6 +107,17 @@ It's a lot for a little LED COB it can heat up to more than 100 degrees with the
 
 If we watch the second picture we can see the others components 
 
+Like the speaker, even if the light is supposed to wake you. If you sleep very deep a good music is necessary to wake up ! 
+We can see on the left the PCB buttons for all the buttons and the potar. Is link with the main PCB with a FPC cable.
+
+The huge tank on the middle is for the water of the river. The pump is also inside. The holes are for the pipes.
+
+We can see the USB C port in the bottom right also link with the main PCB with a FPC cable.
+
+on the right we have the PCB for the SD card. And below it we have our battery.
+
+
+And thats already a lot for a CAD but I'm really proud of me ! I can't wait to print it !
 
 
 
