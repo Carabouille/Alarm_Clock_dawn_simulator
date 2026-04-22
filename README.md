@@ -213,4 +213,33 @@ That wasn't possible with the dimensions I needed to avoid the waste of some par
 
 # BOM
 
+Now it's the time to do the BOM and order all our components ! 
+
+I splited the BOM in differents part.
+
+The first part is the components that I'm gonna order on LCSC (Overall, these are the the CMD components)
+
+<img src=Pictures/BOM1.png width="700"/>
+
+The second part is for the other type of components like switch, pump, speaker, Led, etc...
+For the moment it's only electronics components, all buy in Aliexpress
+
+<img src=Pictures/BOM2.png width="700"/>
+
+In this last part we have the PCB, and all the elements of decoration 
+
+<img src=Pictures/BOM3.png width="700"/>
+
+
+So the total for all this is 150,39€ (176,19$)
+
+
+But have you noticed that I've highlighted some prices in green?
+Because I already have some components so I don't need to buy all this a second time.
+So for me the total is : 94,51€ (110,72$)
+
+
+
+
+
 # Special thanks
