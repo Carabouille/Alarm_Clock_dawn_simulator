@@ -126,7 +126,30 @@ And thats already a lot for a CAD but I'm really proud of me ! I can't wait to p
 
 # PCB
 
-#Firmware
+OK so now it's the moment to talk about my PCB ! And it's a huge part of my project ! 
+It's only my second PCB so it's not perfect, the first was the macropad.
+
+<img src=Pictures/pcb_elec_1.png width="1000"/>
+
+This is only the main PCB and I'm going to describe all the differetns part
+I'm not gonna describe how I choosed the components because it's not really important, but fro each components I had follow the datasheet.
+
+So we can see at the top left the port J1 that bring the power supply from the USB C port on an ohter PCB.
+The power is send to the first components the MCP73871. This component charge at the same time the battery in 4,2V and supply the system with the 5V
+
+But 5V is toot high for an ESP32 so we need to decrease it to 3,3V with the AMS1117-3.3.
+
+For this project I used a ESP32-S3-WROOM-1 is very powerfull and the wifi connection will help me to search the local weather.
+
+
+
+
+
+
+
+
+
+# Firmware
 
 # BOM
 
