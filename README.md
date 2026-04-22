@@ -163,16 +163,50 @@ We also have a lot of connector for the :
 - Buttons PCB
 - Battery
 
+and after having done the wiring diagram, it's time to root all the components between them ! 
+
+This is my final solution : 
+
+<img src=Pictures/pcb_pcb_1.png width="1000"/>
+
+<img src=Pictures/pcb_pcb_2.png width="500"/>
+<img src=Pictures/pcb_pcb_3.png width="500"/>
+
+We can see here all the components which I mentioned earlier
+I root on 2 face so it's not too difficult to do it. The main difficulty is to match the footprint with the real component.
+
 And thats all for the main PCB It's already a lot ! 
 
 
 
+Let's talk about the second PCB, The Buttons PCB !! 
 
+This PCB is more simple that the previous, is just a little repetitive with all the buttons 
+We can see here the wiring diagram ! 
 
+<img src=Pictures/pcb_elec_2.png width="1000"/>
 
+You can see here 4 differents PCB separate by the blue lines.
+The larger is the PCB with all the buttons and the potar.
+Also I used a MCP23017 to increase the number of pins GPIO of the ESP32 ( I used a lot of buttons ^^) I'll go into detail in the firmware part. 
+You can see an capacitor in parallel for each buttons. It's anti-bounce material it's very important for a professional project !
+I added on this PCB a AHT 20 it's a temperature and humidity sensor.
 
+The little PCB on the middle is for the swith on the top of the box.
 
+The PCB on the bottom is the micro SD port card PCB
 
+and the last is the PCB for the USB C
+
+And after this it's rooting time ! 
+
+<img src=Pictures/pcb_pcb_4.png width="1000"/>
+
+<img src=Pictures/pcb_pcb_5.png width="500"/>
+
+<img src=Pictures/pcb_pcb_6.png width="500"/>
+
+That wasn't possible with the dimensions I needed to avoid the waste of some part of the PCB, like you can see the part not used.
 
 
 # Firmware
