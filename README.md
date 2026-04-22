@@ -141,6 +141,32 @@ But 5V is toot high for an ESP32 so we need to decrease it to 3,3V with the AMS1
 
 For this project I used a ESP32-S3-WROOM-1 is very powerfull and the wifi connection will help me to search the local weather.
 
+For the speaker we need to use a audio amplifier. I choosed to use the MAX98357A is very famous for this type of project
+
+I used a DW01A and a FS8205A this duo of components is for the battery. To avoid overload, deep discharge and protect from the short circuit. 
+
+For the led and the fan of the heat sink I need 24V and 12V. So i used a 2 MT3608 to increase the voltage.
+
+To control the led I'll use 2 channel of PWM to managed the warm and cold color of the led.
+To do this I'm gonna use a 2 transistor A03400A.
+
+I also use a VEML770 a light sensor, to managed the luminosity of the screen.
+
+We also have a lot of connector for the : 
+- Screen
+- USB C
+- Heat sink
+- Led COB
+- Led strip (to decorate)
+- servo motor
+- SD card PCB
+- Buttons PCB
+- Battery
+
+And thats all for the main PCB It's already a lot ! 
+
+
+
 
 
 
