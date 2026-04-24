@@ -102,7 +102,7 @@ Let's make the walls transparent to see what is inside the box!
 Yes, there are a lot of things inside it! 
 
 We can see well in the first picture the servo motor as we saw earlier
-And the light with the heat sink, which is carried by a support fw with screws to the box
+And the light with the heat sink, which is carried by a support with screws to the box
 The heat sink is necessary here cause the light needs to be at least a 8W to diffuse a minimum of the light to wake you. 
 But the light is also powered on 24V and if you do the calcul
 
@@ -112,7 +112,7 @@ I = P / U
 
 I = 8 / 24 = 0,33 A 
 
-It's a lot for a little LED COB; it can heat up to more than 100 degrees. With the heat sink, everything will be ok!
+It's a lot for a little LED COB ! It can heat up to more than 100 degrees. With the heat sink, everything will be ok!
 
 If we watch the second picture we can see the other components
 
