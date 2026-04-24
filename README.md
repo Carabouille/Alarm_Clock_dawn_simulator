@@ -28,8 +28,7 @@ I explain here 7 features:
 - The Zen river
 - The light for the dawn simulator feature
 - The switch on the top
-- A battery (in case the electricity is shutting down)
-- And the switches and the port on the side
+- And the switches and the knob on the side
 
 My favourite color is the pink (hard to guess ^^)
 I really love the cherry flower in the background that reminds me of the cherry tree on the top of the alarm.
