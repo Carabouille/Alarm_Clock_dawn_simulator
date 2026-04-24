@@ -210,6 +210,18 @@ That wasn't possible with the dimensions I needed to avoid the waste of some par
 
 
 # Firmware
+The Firmware a big part of my project!
+To code I used the software Visual Studio Code and the extension Plateformio
+The code is pretty simple for the moment I only initialize all the components, I'm gonna add all the features interesting when I hould have the card in my hands.
+For the moment given that I only initialize the components all my code parts are copy paste from the exemple code that I found online and from old code that I made.
+
+In the code I initialize :
+- The I2C bus
+- The audio amplifier
+- The SD card
+- The screen
+- The wifi connection (to obtain the hour, date and more soon)
+- 
 
 # BOM
 
