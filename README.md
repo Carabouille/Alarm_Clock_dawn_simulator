@@ -219,7 +219,7 @@ I'm gonna cut the different PCB myself with a dremel.
 # Firmware
 The Firmware is a big part of my project! (I said it for each part ;-;)
 To code I used the software Visual Studio Code and the extension Plateformio
-The code is pretty simple for the moment. I only initialize all the components. I'm gonna add all the interesting features when I hould have the card in my hands.
+The code is pretty simple for the moment. I only initialize all the components. I'm gonna add all the interesting features when I could have the card in my hands.
 For the moment, given that I only initialize the components, all my code parts are just from the example code that I found online and from old code that I made.
 
 In the code I initialize :
