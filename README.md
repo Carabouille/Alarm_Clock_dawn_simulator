@@ -149,7 +149,7 @@ For this project I used an ESP32-S3-WROOM-1 that is very powerful and the WiFi c
 
 For the speaker, we need to use an audio amplifier. I chose to use the MAX98357A, which is very famous for this type of project
 
-I used a DW01A and a FS8205A; this duo of components is for the battery. To avoid overload, deep discharge, and protection from the short circuit.
+I used a DW01A and a FS8205A, this duo of components is for the battery. To avoid overload, deep discharge, and protection from the short circuit.
 
 For the LED and the fan of the heat sink I need 24V and 12V. So I used a 2 MT3608 to increase the voltage.
 
@@ -187,7 +187,7 @@ And that's all for the main PCB. It's already a lot!
 
 Let's talk about the second PCB, The Buttons PCB!! 
 
-This PCB is simpler than the previous one; it is just a little repetitive with all the buttons 
+This PCB is simpler than the previous one, it is just a little repetitive with all the buttons 
 We can see here the wiring diagram!
 
 <img src=Pictures/pcb_elec_2.png width="1000"/>
@@ -195,8 +195,8 @@ We can see here the wiring diagram!
 You can see here 4 different PCBs separated by the blue lines.
 The larger is the PCB with all the buttons and the polar.
 Also, I used a MCP23017 to increase the number of pins GPIO of the ESP32 ( I used a lot of buttons ^^) I'll go into detail in the firmware part. 
-You can see a capacitor in parallel for each button. It's anti-bounce material; it's very important for a professional project!
-I added on this PCB an AHT 20; it's a temperature and humidity sensor.
+You can see a capacitor in parallel for each button. It's anti-bounce material. It's very important for a professional project!
+I added on this PCB an AHT 20, it's a temperature and humidity sensor.
 
 The little PCB in the middle is for the switch on the top of the box.
 
@@ -213,13 +213,14 @@ And after this it's rooting time !
 <img src=Pictures/pcb_pcb_6.png width="500"/>
 
 That wasn't possible with the dimensions I needed to avoid the waste of some part of the PCB, like you can see the part not used.
+I'm gonna cut the different PCB myself with a dremel.
 
 
 # Firmware
-The Firmware is a big part of my project!
+The Firmware is a big part of my project! (I said it for each part ;-;)
 To code I used the software Visual Studio Code and the extension Plateformio
-The code is pretty simple for the moment; I only initialize all the components. I'm gonna add all the interesting features when I hould have the card in my hands.
-For the moment, given that I only initialize the components, all my code parts are copy-paste from the example code that I found online and from old code that I made.
+The code is pretty simple for the moment. I only initialize all the components. I'm gonna add all the interesting features when I hould have the card in my hands.
+For the moment, given that I only initialize the components, all my code parts are just from the example code that I found online and from old code that I made.
 
 In the code I initialize :
 - The I2C bus
@@ -236,7 +237,7 @@ In the code I initialize :
 - The VEML7700
 - The AHT20
 
-There are still a lot of things to add; I will add this later (with components in front of me) cause it is code more complicated, and it's useless to code this without debugging in live (I guess)
+There are still a lot of things to add. I will add this later (with components in front of me) cause it is code more complicated, and it's useless to code this without debugging in live (I guess)
 
 The things that I need to add: 
 - A good design of the hours, temperatures, etc...
@@ -268,7 +269,7 @@ The first part is the components that I'm going to order on LCSC (Overall, these
 <img src=Pictures/BOM1.png width="700"/>
 
 The second part is for the other types of components like switch, pump, speaker, LED, etc...
-For the moment, it's only electronic components; all buy in Aliexpress
+For the moment, it's only electronic components, all buy in Aliexpress
 
 <img src=Pictures/BOM2.png width="700"/>
 
