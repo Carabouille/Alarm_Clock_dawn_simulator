@@ -41,7 +41,7 @@ Is not perfect of course but for my light skills in design I think it's really n
 # CAD 
 One of the main parts of my project is the CAD!
 For this I used the software Solidworks ( a French soft! COCORICO!)
-I'm in a toxic relationship with Solidworks; sometimes I love it, sometimes I hate it...
+I'm in a toxic relationship with Solidworks, sometimes I love it, sometimes I hate it...
 This software is not easy to use but after some crashes and bugs I finally made a CAD which I'm proud of!
 
 So for my project I had to work within certain constraints 
