@@ -10,7 +10,7 @@ I often have trouble waking up with my phone alarm. I often feel that I'm tired 
 - Control all the Leds in my bedroom
 - and more.....
 
-I really can't wait to start my project, develop my skills and learn so much! I'm gonna give the best version of myself to be proud of my alarm clocks and I also hope that I will have the chance to go to Shenzen to meet other hardware fans! Kind regards, your French friend, Florian "Carabouille" CHARLES :))
+I really can't wait to build my project, develop my skills and learn so much! I'm gonna give the best version of myself to be proud of my alarm clocks and I also hope that I will have the chance to go to Shenzen to meet other hardware fans! Kind regards, your French friend, Florian "Carabouille" CHARLES :))
 
 # Zine page 
 The better way to describe my project is with a poster who talks about it! 
