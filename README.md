@@ -233,7 +233,23 @@ In the code I initialize :
 There is still a lot of things to add, I will add this later (with components in front of me) cause it is code more complicate and it's useless to code this without debuging in live (I guess)
 
 The things that I need to add : 
-- a good 
+- a good design of the hours, temperature etc...
+- alarm features (with the dawn simulator)
+- all the buttons features like :
+- - turn on the smart plug of my computer
+  - play a ACNL music
+  - a sleep mode
+  - song chill
+  - bedside lamp
+  - nap timer
+  - switch that shut down the alarm
+  - set alarm 1
+  - set alarm 2
+  - turn on the leds of my room
+  - turn on the river
+  - the others buttons will be there to adjust certain settings
+
+
 
 # BOM
 
