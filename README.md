@@ -133,7 +133,7 @@ And that's already a lot for a CAD, but I'm really proud of me! I can't wait to 
 # PCB
 
 OK so now it's the moment to talk about my PCB! And it's a huge part of my project! 
-It's only my second PCB so it's not perfect; the first was the macropad.
+It's only my second PCB so it's not perfect, the first was the macropad.
 
 <img src=Pictures/pcb_elec_1.png width="1000"/>
 
