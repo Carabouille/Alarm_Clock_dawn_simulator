@@ -298,7 +298,7 @@ thanks to my mum for creating me
 
 Thanks to photosynthesis for creating the oxygen that I breathe
 
-Thanks to the reviwer !! I know the project is not easy to understand ;-; 
+Thanks to the reviewer !! I know the project is not easy to understand ;-; 
 
 Thanks to Soup for the free koi with the streak ! 
 
