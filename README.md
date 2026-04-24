@@ -238,6 +238,8 @@ But have you noticed that I've highlighted some prices in green?
 Because I already have some components so I don't need to buy all this a second time.
 So for me the total is : 94,51€ (110,72$)
 
+To click on the link and see more detail you can dowload the Excel BOM in the files.
+
 
 
 
