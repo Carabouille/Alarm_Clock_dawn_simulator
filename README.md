@@ -221,7 +221,19 @@ In the code I initialize :
 - The SD card
 - The screen
 - The wifi connection (to obtain the hour, date and more soon)
-- 
+- All the buttons with the MCP23017
+- Servo motor
+- the EC11
+- The signal PWM for the LED
+- The dislay of the hours on the screen
+- The enable pin for the MT3608
+- The VEML7700
+- The AHT20
+
+There is still a lot of things to add, I will add this later (with components in front of me) cause it is code more complicate and it's useless to code this without debuging in live (I guess)
+
+The things that I need to add : 
+- a good 
 
 # BOM
 
