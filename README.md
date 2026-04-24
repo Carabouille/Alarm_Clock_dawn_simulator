@@ -239,9 +239,9 @@ The things that I need to add :
 
 Now it's the time to do the BOM and order all our components ! 
 
-I splited the BOM in differents part.
+I split the BOM into different parts.
 
-The first part is the components that I'm gonna order on LCSC (Overall, these are the the CMD components)
+The first part is the components that I'm going to order on LCSC (Overall, these are the CMD components)
 
 <img src=Pictures/BOM1.png width="700"/>
 
