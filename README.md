@@ -117,13 +117,14 @@ It's a lot for a little LED COB ! It can heat up to more than 100 degrees. With 
 If we watch the second picture we can see the other components
 
 Like the speaker, even if the light is supposed to wake you. If you sleep very deeply, good music is necessary to wake up! 
-We can see on the left the PCB buttons for all the buttons and the port. Is linked with the main PCB with a FPC cable.
+We can see on the left the PCB buttons for all the buttons and the knob. Is linked with the main PCB with a FPC cable.
 
 The huge tank in the middle is for the water of the river. The pump is also inside. The holes are for the pipes.
 
 We can see the USB C port in the bottom right also linked with the main PCB with a FPC cable.
 
 On the right we have the PCB for the SD card. And below it we have our battery.
+The battery is just in case that there is a power cut at home, the battery will supply the system until the return of power !
 
 And that's already a lot for a CAD, but I'm really proud of me! I can't wait to print it!
 
