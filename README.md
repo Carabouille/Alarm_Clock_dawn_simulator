@@ -341,7 +341,7 @@ In this last part we have the PCB, and all the elements of decoration
 |---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
 | PCB (JLCPCB)                    | Main PCB                | X               | 1        | Upload GERBER on JLCPCB | 3.4       | X                                |
 |                                 | Buttons PCB             | X               | 1        |                         | 3.4       |  X                               |
-|                                 |                         |                 |          |                         |           |                                X |
+|                                 |                         |                 |          |                         |           |                                 |
 | Décoration                      | Log (for the base)      | 14-16cm         | 2        | [Link](https://fr.aliexpress.com/item/1005007635992230.html)                      | 9.78      |                                X |
 |                                 | Temple                  | X               | 1        | [Link](https://fr.aliexpress.com/item/1005007500230985.html)                      | 2.1       |                                X |
 |                                 | Moss 1                  | 20g             | 1        | [Link](https://fr.aliexpress.com/item/1005005026348059.html)                      | 1.72      |                                X |
