@@ -311,26 +311,26 @@ For the moment, it's only electronic components, all buy in Aliexpress
 
 | Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
 |---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
-| Others components (not in LCSC) | Switch push buttons     | 6mm.6mm.5.5mm   | 17       | Link                    | 1.22      |                                  |
-|                                 | EC11 rotary encoder     | X               | 1        | Link                    | 1.33      |                                  |
-|                                 | Touch screen            | 4 inch          | 1        | Link                    | 14.39     |                                  |
-|                                 | Speaker                 | 8 ohm           | 1        | Link                    | 10.7      |                                  |
-|                                 | keyboard switch         | X               | 1        | Link                    | 4.39      |                                  |
-|                                 | Servo motor             | 180 degrees     | 1        | Link                    | 2.7       |                                  |
-|                                 | LED COB                 | 24V 8W          | 1        | Link                    | 1.89      |        X                         |
-|                                 | Heat sink               | with fan 12V    | 1        | Link                    | 3.19      |                                  |
-|                                 | Male pins               | 17 pins         | 1        | Link                    | 1.89      |     X                            |
+| Others components (not in LCSC) | Switch push buttons     | 6mm.6mm.5.5mm   | 17       | [Link](https://fr.aliexpress.com/item/1005001629177989.html)                    | 1.22      |                                  |
+|                                 | EC11 rotary encoder     | X               | 1        | [Link](https://fr.aliexpress.com/item/1005003824684681.html)                    | 1.33      |                                  |
+|                                 | Touch screen            | 4 inch          | 1        | [Link](https://fr.aliexpress.com/item/1005005791515997.html)                    | 14.39     |                                  |
+|                                 | Speaker                 | 8 ohm           | 1        | [Link](https://fr.aliexpress.com/item/4000034945525.html)                    | 10.7      |                                  |
+|                                 | keyboard switch         | X               | 1        | [Link](https://fr.aliexpress.com/item/1005006298192363.html)                     | 4.39      |                                  |
+|                                 | Servo motor             | 180 degrees     | 1        | [Link](https://fr.aliexpress.com/item/1005006572297006.html)                      | 2.7       |                                  |
+|                                 | LED COB                 | 24V 8W          | 1        | [Link](https://fr.aliexpress.com/item/1005006373977700.html)                      | 1.89      |        X                         |
+|                                 | Heat sink               | with fan 12V    | 1        | [Link](https://fr.aliexpress.com/item/1005003605697738.html)                      | 3.19      |                                  |
+|                                 | Male pins               | 17 pins         | 1        | [Link](https://fr.aliexpress.com/item/4000873858801.html)                      | 1.89      |     X                            |
 |                                 | Female pins             | 14 pins         | 1        |                         |           |      X                           |
-|                                 | Battery                 | 18650           | 1        | Link                    | 6.59      |                                  |
-|                                 | Led strip               | addressable 1m  | 1        | Link                    | 4.99      |                                  |
-|                                 | 3D-printed insert       | M3              | 12       | Link                    | 1.69      |                                  |
-|                                 | Screw                   | M3              | 12       | Link                    | 1.4       |                                  |
-|                                 | Micro SD card           | 4go             | 1        | Link                    | 3.29      |                                  |
-|                                 | FPC cable               | 12pins 15cm 1mm | 1        | Link                    | 1.72      |        X                         |
-|                                 |                         | 8pins 10cm 1mm  | 2        | Link                    | 2.18      |        X                         |
-|                                 | epoxy resin             | 50ml + 50ml     | 1        | Link                    | 6.59      |        X                         |
-|                                 | Water pump              | 5V              | 1        | Link                    | 1.69      |        X                         |
-|                                 | Pipe                    | 1m              | 1        | Link                    | 1.81      |        X                         |
+|                                 | Battery                 | 18650           | 1        | [Link](https://fr.aliexpress.com/item/1005008704468583.html)                      | 6.59      |                                  |
+|                                 | Led strip               | addressable 1m  | 1        | [Link](https://fr.aliexpress.com/item/1005009613294814.html)                      | 4.99      |                                  |
+|                                 | 3D-printed insert       | M3              | 12       | [Link](https://fr.aliexpress.com/item/1005007653131713.html)                      | 1.69      |                                  |
+|                                 | Screw                   | M3              | 12       | [Link](https://fr.aliexpress.com/item/32968616563.html)                      | 1.4       |                                  |
+|                                 | Micro SD card           | 4go             | 1        | [Link](https://fr.aliexpress.com/item/1005008059516973.html)                      | 3.29      |                                  |
+|                                 | FPC cable               | 12pins 15cm 1mm | 1        | [Link](https://fr.aliexpress.com/item/1005007561337665.html)                      | 1.72      |        X                         |
+|                                 |                         | 8pins 10cm 1mm  | 2        | [Link](https://fr.aliexpress.com/item/1005007561337665.html)                      | 2.18      |        X                         |
+|                                 | epoxy resin             | 50ml + 50ml     | 1        | [Link](https://fr.aliexpress.com/item/1005007345256355.html)                      | 6.59      |        X                         |
+|                                 | Water pump              | 5V              | 1        | [Link](https://fr.aliexpress.com/item/1005006614378374.html)                      | 1.69      |        X                         |
+|                                 | Pipe                    | 1m              | 1        | [Link](https://fr.aliexpress.com/item/1005006614378374.html)                      | 1.81      |        X                         |
 |                     Total       |                         |                 |          |                         | 73.65     |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
 
@@ -342,13 +342,13 @@ In this last part we have the PCB, and all the elements of decoration
 | PCB (JLCPCB)                    | Main PCB                | X               | 1        | Upload GERBER on JLCPCB | 3.4       | X                                |
 |                                 | Buttons PCB             | X               | 1        |                         | 3.4       |  X                               |
 |                                 |                         |                 |          |                         |           |                                X |
-| Décoration                      | Log (for the base)      | 14-16cm         | 2        | Link                    | 9.78      |                                X |
-|                                 | Temple                  | X               | 1        | Link                    | 2.1       |                                X |
-|                                 | Moss 1                  | 20g             | 1        | Link                    | 1.72      |                                X |
-|                                 | Moss 2                  | 20g             | 1        | Link                    | 2.04      |                                X |
-|                                 | Cherry tree             | X               | 1        | Link                    | 3.89      |                                X |
-|                                 | PLA black + white       | 1kg + 1kg       | 1        | Link                    | 20.12     |                                X |
-|                                 | Bridge                  | X               | 1        | Link                    | 1.05      |                                X |
+| Décoration                      | Log (for the base)      | 14-16cm         | 2        | [Link](https://fr.aliexpress.com/item/1005007635992230.html)                      | 9.78      |                                X |
+|                                 | Temple                  | X               | 1        | [Link](https://fr.aliexpress.com/item/1005007500230985.html)                      | 2.1       |                                X |
+|                                 | Moss 1                  | 20g             | 1        | [Link](https://fr.aliexpress.com/item/1005005026348059.html)                      | 1.72      |                                X |
+|                                 | Moss 2                  | 20g             | 1        | [Link](https://fr.aliexpress.com/item/1005005026348059.html)                      | 2.04      |                                X |
+|                                 | Cherry tree             | X               | 1        | [Link](https://fr.aliexpress.com/item/1005003593401791.html)                      | 3.89      |                                X |
+|                                 | PLA black + white       | 1kg + 1kg       | 1        | [Link](https://www.amazon.fr/gp/product/B0CV4V5L7T/ref=ewc_pr_img_1?smid=AKWYTSYUMR87P&th=1)                      | 20.12     |                                X |
+|                                 | Bridge                  | X               | 1        | [Link](https://fr.aliexpress.com/item/1005003493992894.html)                      | 1.05      |                                X |
 |                  Total          |                         |                 |          |                         | 42.7      |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
