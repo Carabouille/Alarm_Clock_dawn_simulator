@@ -367,6 +367,14 @@ Because I already have some components, I don't need to buy all this a second ti
 So for me the total is: 94,51€ (110,72$)
 
 
+# Build section 
+
+To build this you first need to order all the components that you need. 
+After this it's time to print the box and all the others parts who are in the STL file. For the color withe for the box, black for the buttons and the UwU eyes and pink for the knob et the UwU cheeks. for the support inside the box it's doesn't matter.
+You need to solder all the components on the pcb. And upload the code on the ESP32.
+And after that You need to setup the timer of the alamr clock and that's ALL ! 
+
+
 
 
 # Special thanks
