@@ -266,16 +266,100 @@ I split the BOM into different parts.
 
 The first part is the components that I'm going to order on LCSC (Overall, these are the CMD components)
 
-<img src=Pictures/BOM1.png width="700"/>
+| Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
+|---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
+|                                 | Resistance              | 100             | 1        | [C105588](https://www.lcsc.com/product-detail/C105588.html?s_z=n_q_C105588)                 | 0.13      |       X                          |
+|                                 |                         | 300             | 1        | C2930092                | 0.12      | X                                |
+|                                 |                         | 5,1k            | 2        | C2907044                | 0.11      |       X                          |
+|                                 |                         | 1M              | 1        | C2907115                | 0.08      |    X                             |
+|                                 |                         | 10k             | 11       | C98220                  | 0.28      |    X                             |
+|                                 |                         | 180k            | 1        | C2906999                | 0.1       |    X                             |
+|                                 |                         | 1k              | 5        | C22548                  | 0.14      |    X                             |
+|                                 |                         | 390k            | 1        | C137735                 | 0.15      |    X                             |
+|                                 |                         | 2,2k            | 2        | C4190                   | 0.14      |    X                             |
+|                                 | Capacitor               | 10n             | 2        | C100042                 | 0.23      |    X                             |
+|                                 |                         | 100n            | 26       | C14663                  | 0.56      |    X                             |
+|                                 |                         | 10u             | 4        | C440198                 | 1.27      |    X                             |
+|                                 |                         | 1u              | 1        | C28323                  | 0.24      |    X                             |
+|                                 |                         | 22u             | 5        | C342620                 | 2.1       |    X                             |
+|                                 |                         | 4,7u            | 2        | C98192                  | 0.18      |    X                             |
+|                                 | VEML7700-TT             | X               | 1        | C1850416                | 1.49      |    X                             |
+|                                 | FS8205A                 | X               | 1        | C2830320                | 0.52      |    X                             |
+|                                 | YLED0603B (led)         | Blue            | 1        | C19171394               | 0.54      |    X                             |
+|                                 | YLED0603G (led)         | Green           | 1        | C19273151               | 0.54      |    X                             |
+|                                 | KT-0603R (led)          | Red             | 1        | C2286                   | 0.59      |    X                             |
+|                                 | MAX98357AETE+T          | X               | 1        | C910544                 | 1.24      |    X                             |
+|                                 | MCP73871-2AAI/ML        | X               | 1        | C144351                 | 2.74      |    X                             |
+|                                 | MT3608                  | X               | 2        | C84817                  | 0.69      |    X                             |
+|                                 | SS14 (diode)            | X               | 2        | C2837270                | 0.48      |    X                             |
+|                                 | AHT20                   | X               | 1        | C2757850                | 0.58      |    X                             |
+|                                 | MCP23017T-E/ML          | X               | 1        | C629439                 | 1.46      |    X                             |
+|                                 | micro sd card port      | X               | 1        | C506790                 | 3.66      |    X                             |
+|                                 | USB-C port              | X               | 1        | C2765186                | 1.17      |    X                             |
+|                                 | DW01A                   | X               | 1        | C351410                 | 0.75      |    X                             |
+|                                 | Coil                    | 22u             | 2        | C2826664                | 0.64      |    X                             |
+|                                 | AMS1117-3.3             | X               | 1        | C6186                   | 0.99      |    X                             |
+|                                 | AO3400A                 | X               | 2        | C20917                  | 0.36      |    X                             |
+|                                 | FFC / FPC connector 1mm | 8 pins          | 4        | C262714                 | 0.99      |    X                             |
+|                                 |                         | 12 pins         | 2        | C262718                 | 1.1       |    X                             |
+|                                 | ESP32-S3-WROOM-1        | X               | 1        | C2913202                | 4.58      |    X                             |
+|      Total                      |                         |                 |          |                         | 30.94     |    X                             |
+|                                 |                         |                 |          |                         |           |    X                             |
 
 The second part is for the other types of components like switch, pump, speaker, LED, etc...
 For the moment, it's only electronic components, all buy in Aliexpress
 
-<img src=Pictures/BOM2.png width="700"/>
+| Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
+|---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
+| Others components (not in LCSC) | Switch push buttons     | 6mm.6mm.5.5mm   | 17       | Link                    | 1.22      |                                  |
+|                                 | EC11 rotary encoder     | X               | 1        | Link                    | 1.33      |                                  |
+|                                 | Touch screen            | 4 inch          | 1        | Link                    | 14.39     |                                  |
+|                                 | Speaker                 | 8 ohm           | 1        | Link                    | 10.7      |                                  |
+|                                 | keyboard switch         | X               | 1        | Link                    | 4.39      |                                  |
+|                                 | Servo motor             | 180 degrees     | 1        | Link                    | 2.7       |                                  |
+|                                 | LED COB                 | 24V 8W          | 1        | Link                    | 1.89      |        X                         |
+|                                 | Heat sink               | with fan 12V    | 1        | Link                    | 3.19      |                                  |
+|                                 | Male pins               | 17 pins         | 1        | Link                    | 1.89      |     X                            |
+|                                 | Female pins             | 14 pins         | 1        |                         |           |      X                           |
+|                                 | Battery                 | 18650           | 1        | Link                    | 6.59      |                                  |
+|                                 | Led strip               | addressable 1m  | 1        | Link                    | 4.99      |                                  |
+|                                 | 3D-printed insert       | M3              | 12       | Link                    | 1.69      |                                  |
+|                                 | Screw                   | M3              | 12       | Link                    | 1.4       |                                  |
+|                                 | Micro SD card           | 4go             | 1        | Link                    | 3.29      |                                  |
+|                                 | FPC cable               | 12pins 15cm 1mm | 1        | Link                    | 1.72      |        X                         |
+|                                 |                         | 8pins 10cm 1mm  | 2        | Link                    | 2.18      |        X                         |
+|                                 | epoxy resin             | 50ml + 50ml     | 1        | Link                    | 6.59      |        X                         |
+|                                 | Water pump              | 5V              | 1        | Link                    | 1.69      |        X                         |
+|                                 | Pipe                    | 1m              | 1        | Link                    | 1.81      |        X                         |
+|                     Total       |                         |                 |          |                         | 73.65     |                                  |
+|                                 |                         |                 |          |                         |           |                                  |
+
 
 In this last part we have the PCB, and all the elements of decoration 
 
-<img src=Pictures/BOM3.png width="700"/>
+| Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
+|---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
+| PCB (JLCPCB)                    | Main PCB                | X               | 1        | Upload GERBER on JLCPCB | 3.4       | X                                |
+|                                 | Buttons PCB             | X               | 1        |                         | 3.4       |  X                               |
+|                                 |                         |                 |          |                         |           |                                X |
+| Décoration                      | Log (for the base)      | 14-16cm         | 2        | Link                    | 9.78      |                                X |
+|                                 | Temple                  | X               | 1        | Link                    | 2.1       |                                X |
+|                                 | Moss 1                  | 20g             | 1        | Link                    | 1.72      |                                X |
+|                                 | Moss 2                  | 20g             | 1        | Link                    | 2.04      |                                X |
+|                                 | Cherry tree             | X               | 1        | Link                    | 3.89      |                                X |
+|                                 | PLA black + white       | 1kg + 1kg       | 1        | Link                    | 20.12     |                                X |
+|                                 | Bridge                  | X               | 1        | Link                    | 1.05      |                                X |
+|                  Total          |                         |                 |          |                         | 42.7      |                                  |
+|                                 |                         |                 |          |                         |           |                                  |
+|                                 |                         |                 |          |                         |           |                                  |
+| Full price                      | 152.39                  |                 |          |                         |           |                                  |
+| Real price                      | 96.51                   |                 |          |                         |           |                                  |
+|                                 |                         |                 |          |                         |           |                                  |
+| Aliexpress                      | 38.35                   |                 |          |                         |           |                                  |
+| LCSC                            | 30.94                   |                 |          |                         |           |                                  |
+| Amazon                          | 20.12                   |                 |          |                         |           |                                  |
+| JLCPCB                          | 6,8                     |                 |          |                         |           |                                  |
+
 
 
 So the total for all this is 150,39€ (176,19$)
