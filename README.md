@@ -353,23 +353,20 @@ In this last part we have the PCB, and all the elements of decoration
 |                                 |                         |                 |          |                         |           |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
 | Full price                      | 152.39                  |                 |          |                         |           |                                  |
-| Real price                      | 96.51                   |                 |          |                         |           |                                  |
-|                                 |                         |                 |          |                         |           |                                  |
-| Aliexpress                      | 38.35                   |                 |          |                         |           |                                  |
-| LCSC                            | 30.94                   |                 |          |                         |           |                                  |
-| Amazon                          | 20.12                   |                 |          |                         |           |                                  |
-| JLCPCB                          | 6,8                     |                 |          |                         |           |                                  |
+| Real price (for me)             | 96.51                   |                 |          |                         |           |                                  |
+
 
 
 
 So the total for all this is 150,39€ (176,19$)
 
 
-But have you noticed that I've highlighted some prices in green?
+But have you noticed that there is cross on the right of certain product ?
 Because I already have some components, I don't need to buy all this a second time.
+
 So for me the total is: 94,51€ (110,72$)
 
-To click on the link and see more details you can dowload the Excel BOM in the files ! 
+
 
 
 # Special thanks
