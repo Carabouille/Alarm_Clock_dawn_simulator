@@ -268,18 +268,18 @@ The first part is the components that I'm going to order on LCSC (Overall, these
 
 | Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
 |---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
-|                                 | Resistance              | 100             | 1        | [C105588](https://www.lcsc.com/product-detail/C105588.html?s_z=n_q_C105588)                 | 0.13      |       X                          |
-|                                 |                         | 300             | 1        | C2930092                | 0.12      | X                                |
-|                                 |                         | 5,1k            | 2        | C2907044                | 0.11      |       X                          |
-|                                 |                         | 1M              | 1        | C2907115                | 0.08      |    X                             |
-|                                 |                         | 10k             | 11       | C98220                  | 0.28      |    X                             |
-|                                 |                         | 180k            | 1        | C2906999                | 0.1       |    X                             |
-|                                 |                         | 1k              | 5        | C22548                  | 0.14      |    X                             |
-|                                 |                         | 390k            | 1        | C137735                 | 0.15      |    X                             |
-|                                 |                         | 2,2k            | 2        | C4190                   | 0.14      |    X                             |
-|                                 | Capacitor               | 10n             | 2        | C100042                 | 0.23      |    X                             |
-|                                 |                         | 100n            | 26       | C14663                  | 0.56      |    X                             |
-|                                 |                         | 10u             | 4        | C440198                 | 1.27      |    X                             |
+|                                 | Resistance              | 100             | 1        | [C105588](https://www.lcsc.com/product-detail/C105588.html)            | 0.13      |       X                          |
+|                                 |                         | 300             | 1        | [C2930092](https://www.lcsc.com/product-detail/C2930092.html)          | 0.12      | X                                |
+|                                 |                         | 5,1k            | 2        | [C2907044](https://www.lcsc.com/product-detail/C2907044.html)                | 0.11      |       X                          |
+|                                 |                         | 1M              | 1        | [C2907115](https://www.lcsc.com/product-detail/C2907115.html)                | 0.08      |    X                             |
+|                                 |                         | 10k             | 11       | [C98220](https://www.lcsc.com/product-detail/C98220.html)                  | 0.28      |    X                             |
+|                                 |                         | 180k            | 1        | [C2906999](https://www.lcsc.com/product-detail/C2906999.html)                | 0.1       |    X                             |
+|                                 |                         | 1k              | 5        | [C22548](https://www.lcsc.com/product-detail/C22548.html)                  | 0.14      |    X                             |
+|                                 |                         | 390k            | 1        | [C137735](https://www.lcsc.com/product-detail/C137735)                 | 0.15      |    X                             |
+|                                 |                         | 2,2k            | 2        | [C4190](https://www.lcsc.com/product-detail/C4190.html)                   | 0.14      |    X                             |
+|                                 | Capacitor               | 10n             | 2        | [C100042](https://www.lcsc.com/product-detail/C100042.html)                 | 0.23      |    X                             |
+|                                 |                         | 100n            | 26       | [C14663](https://www.lcsc.com/product-detail/C14663.html)                  | 0.56      |    X                             |
+|                                 |                         | 10u             | 4        | [C440198](https://www.lcsc.com/product-detail/C440198.html)                 | 1.27      |    X                             |
 |                                 |                         | 1u              | 1        | C28323                  | 0.24      |    X                             |
 |                                 |                         | 22u             | 5        | C342620                 | 2.1       |    X                             |
 |                                 |                         | 4,7u            | 2        | C98192                  | 0.18      |    X                             |
