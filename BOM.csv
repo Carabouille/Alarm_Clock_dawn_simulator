@@ -1,0 +1,80 @@
+Components LCSC : ,name ,value ,Quantity,LCSC code / link,price (€),
+,Resistance ,100,1,C105588,0.13,
+,,300,1,C2930092,0.12,https://www.lcsc.com/product-detail/C105588.html
+",,""5,1k"",2,C2907044,0.11,https://www.lcsc.com/product-detail/C2930092.html"
+,,1M,1,C2907115,0.08,https://www.lcsc.com/product-detail/C2907044.html
+,,10k,11,C98220,0.28,https://www.lcsc.com/product-detail/C2907115.html
+,,180k,1,C2906999,0.1,https://www.lcsc.com/product-detail/C2906999.html?s_z=n_q_C2906999
+,,1k,5,C22548,0.14,https://www.lcsc.com/product-detail/C22548.html?s_z=n_q_C22548
+,,390k,1,C137735,0.15,https://www.lcsc.com/product-detail/C22548.html?s_z=n_q_C22548
+",,""2,2k"",2,C4190,0.14,https://www.lcsc.com/product-detail/C137735.html?s_z=n_q_C137735"
+,Capacitor,10n,2,C100042,0.23,https://www.lcsc.com/product-detail/C4190.html?s_z=n_q_C4190
+,,100n,26,C14663,0.56,https://www.lcsc.com/product-detail/C100042.html?s_z=n_q_C100042
+,,10u,4,C440198,1.27,https://www.lcsc.com/product-detail/C14663.html?s_z=n_q_C14663
+,,1u,1,C28323,0.24,https://www.lcsc.com/product-detail/C28323.html?s_z=n_q_C28323
+,,22u,5,C342620,2.1,https://www.lcsc.com/product-detail/C342620.html?s_z=n_q_C342620
+",,""4,7u"",2,C98192,0.18,https://www.lcsc.com/product-detail/C98192.html?s_z=n_q_C98192"
+,VEML7700-TT,X,1,C1850416,1.49,https://www.lcsc.com/product-detail/C1850416.html?s_z=n_q_C1850416
+,FS8205A,X,1,C2830320,0.52,https://www.lcsc.com/product-detail/C2830320.html?s_z=n_q_C2830320
+,YLED0603B (led),Blue,1,C19171394,0.54,https://www.lcsc.com/product-detail/C19171394.html?s_z=n_q_C19171394
+,YLED0603G (led),Green,1,C19273151,0.54,https://www.lcsc.com/product-detail/C19273151.html?s_z=n_q_C19273151
+,KT-0603R (led),Red,1,C2286,0.59,https://www.lcsc.com/product-detail/C2286.html?s_z=n_q_C2286
+,MAX98357AETE+T,X,1,C910544,1.24,https://www.lcsc.com/product-detail/C910544.html?s_z=n_q_C910544
+,MCP73871-2AAI/ML,X,1,C144351,2.74,https://www.lcsc.com/product-detail/C144351.html?s_z=n_q_C144351
+,MT3608,X,2,C84817,0.69,https://www.lcsc.com/product-detail/C84817.html?s_z=n_q_C84817
+,SS14 (diode),X,2,C2837270,0.48,https://www.lcsc.com/product-detail/C2837270.html?s_z=n_q_C2837270
+,AHT20,X,1,C2757850,0.58,https://www.lcsc.com/product-detail/C2757850.html?s_z=n_q_C2757850
+,MCP23017T-E/ML,X,1,C629439,1.46,https://www.lcsc.com/product-detail/C629439.html?s_z=n_q_C629439
+,micro sd card port,X,1,C506790,3.66,https://www.lcsc.com/product-detail/C2765186.html?s_z=n_q_C2765186
+,USB-C port,X,1,C2765186,1.17,https://www.lcsc.com/product-detail/C2765186.html?s_z=n_q_C2765186
+,DW01A,X,1,C351410,0.75,https://www.lcsc.com/product-detail/C351410.html?s_z=n_q_C351410
+,Coil,22u,2,C2826664,0.64,https://www.lcsc.com/product-detail/C2826664.html?s_z=n_q_C2826664
+,AMS1117-3.3,X,1,C6186,0.99,https://www.lcsc.com/product-detail/C6186.html?s_z=n_q_C6186
+,AO3400A,X,2,C20917,0.36,https://www.lcsc.com/product-detail/C20917.html?s_z=n_q_C20917
+,FFC / FPC connector 1mm,8 pins ,4,C262714,0.99,https://www.lcsc.com/product-detail/C262714.html?s_z=n_q_C262714
+,,12 pins,2,C262718,1.1,https://www.lcsc.com/product-detail/C262718.html?s_z=n_q_C262718
+,ESP32-S3-WROOM-1,X,1,C2913202,4.58,https://www.lcsc.com/product-detail/C2913202.html?s_z=n_q_C2913202
+,,,,,30.94,
+,,,,,,
+Others components (not in LCSC),Switch push buttons,6mm.6mm.5.5mm,17,Link,1.22,
+,EC11 rotary encoder,X,1,Link,1.33,https://fr.aliexpress.com/item/1005001629177989.html?spm=a2g0o.order_list.order_list_main.62.7ad85e5buKfVZj&gatewayAdapt=glo2fra
+,Touch screen ,4 inch,1,Link,14.39,https://fr.aliexpress.com/item/1005006298192363.html?spm=a2g0o.productlist.main.4.3cc17PcV7PcVoP&aem_p4p_detail=20260420051937581850722750000002583780&algo_pvid=de204b02-7f59-4117-92db-e18d65619d3b&algo_exp_id=de204b02-7f59-4117-92db-e18d65619d3b-3&pdp_ext_f=%7B%22order%22%3A%22120%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.42%214.39%21%21%2134.64%2134.38%21%40211b441e17766875772772830e9790%2112000036662929125%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=gooq9QGv7BWw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006298192363%7C_p_origin_prod%3A&search_p4p_id=20260420051937581850722750000002583780_1
+,Speaker,8 ohm ,1,Link,10.7,https://fr.aliexpress.com/item/1005006298192363.html?spm=a2g0o.productlist.main.4.3cc17PcV7PcVoP&aem_p4p_detail=20260420051937581850722750000002583780&algo_pvid=de204b02-7f59-4117-92db-e18d65619d3b&algo_exp_id=de204b02-7f59-4117-92db-e18d65619d3b-3&pdp_ext_f=%7B%22order%22%3A%22120%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.42%214.39%21%21%2134.64%2134.38%21%40211b441e17766875772772830e9790%2112000036662929125%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=gooq9QGv7BWw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006298192363%7C_p_origin_prod%3A&search_p4p_id=20260420051937581850722750000002583780_1
+,keyboard switch ,X,1,Link,4.39,https://fr.aliexpress.com/item/1005001629177989.html?spm=a2g0o.order_list.order_list_main.62.7ad85e5buKfVZj&gatewayAdapt=glo2fra
+,Servo motor,180 degrees ,1,Link,2.7,https://fr.aliexpress.com/item/1005006298192363.html?spm=a2g0o.productlist.main.4.3cc17PcV7PcVoP&aem_p4p_detail=20260420051937581850722750000002583780&algo_pvid=de204b02-7f59-4117-92db-e18d65619d3b&algo_exp_id=de204b02-7f59-4117-92db-e18d65619d3b-3&pdp_ext_f=%7B%22order%22%3A%22120%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.42%214.39%21%21%2134.64%2134.38%21%40211b441e17766875772772830e9790%2112000036662929125%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=gooq9QGv7BWw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006298192363%7C_p_origin_prod%3A&search_p4p_id=20260420051937581850722750000002583780_1
+,LED COB,24V 8W ,1,Link,1.89,https://fr.aliexpress.com/item/1005006298192363.html?spm=a2g0o.productlist.main.4.3cc17PcV7PcVoP&aem_p4p_detail=20260420051937581850722750000002583780&algo_pvid=de204b02-7f59-4117-92db-e18d65619d3b&algo_exp_id=de204b02-7f59-4117-92db-e18d65619d3b-3&pdp_ext_f=%7B%22order%22%3A%22120%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%214.42%214.39%21%21%2134.64%2134.38%21%40211b441e17766875772772830e9790%2112000036662929125%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=gooq9QGv7BWw&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006298192363%7C_p_origin_prod%3A&search_p4p_id=20260420051937581850722750000002583780_1
+,Heat sink,with fan 12V ,1,Link,3.19,https://fr.aliexpress.com/item/1005003493992894.html?spm=a2g0o.productlist.main.9.79f0IXnNIXnNlw&algo_pvid=f79d22f7-d255-4acc-8846-27f88d4444c1&algo_exp_id=f79d22f7-d255-4acc-8846-27f88d4444c1-8&pdp_ext_f=%7B%22order%22%3A%22152%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.05%211.05%21%21%211.21%211.21%21%40211b655217767177091742074e411a%2112000026044856315%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=BrLVJl9Xb5AY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003493992894%7C_p_origin_prod%3A#nav-specification
+,Male pins,17 pins,1,Link,1.89,https://fr.aliexpress.com/item/1005001629177989.html?spm=a2g0o.order_list.order_list_main.62.7ad85e5buKfVZj&gatewayAdapt=glo2fra
+,Female pins,14 pins,1,,,https://fr.aliexpress.com/item/1005001629177989.html?spm=a2g0o.order_list.order_list_main.62.7ad85e5buKfVZj&gatewayAdapt=glo2fra
+,Battery ,18650,1,Link,6.59,https://fr.aliexpress.com/item/1005003493992894.html?spm=a2g0o.productlist.main.9.79f0IXnNIXnNlw&algo_pvid=f79d22f7-d255-4acc-8846-27f88d4444c1&algo_exp_id=f79d22f7-d255-4acc-8846-27f88d4444c1-8&pdp_ext_f=%7B%22order%22%3A%22152%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.05%211.05%21%21%211.21%211.21%21%40211b655217767177091742074e411a%2112000026044856315%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=BrLVJl9Xb5AY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003493992894%7C_p_origin_prod%3A#nav-specification
+,Led strip,addressable 1m,1,Link,4.99,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,3D-printed insert,M3,12,Link,1.69,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,Screw,M3 ,12,Link,1.4,https://fr.aliexpress.com/item/1005003493992894.html?spm=a2g0o.productlist.main.9.79f0IXnNIXnNlw&algo_pvid=f79d22f7-d255-4acc-8846-27f88d4444c1&algo_exp_id=f79d22f7-d255-4acc-8846-27f88d4444c1-8&pdp_ext_f=%7B%22order%22%3A%22152%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.05%211.05%21%21%211.21%211.21%21%40211b655217767177091742074e411a%2112000026044856315%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=BrLVJl9Xb5AY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003493992894%7C_p_origin_prod%3A#nav-specification
+,Micro SD card,4go,1,Link,3.29,https://fr.aliexpress.com/item/1005001629177989.html?spm=a2g0o.order_list.order_list_main.62.7ad85e5buKfVZj&gatewayAdapt=glo2fra
+,FPC cable ,12pins 15cm 1mm,1,Link,1.72,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,,8pins 10cm 1mm,2,Link,2.18,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,epoxy resin,50ml + 50ml,1,Link,6.59,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,Water pump,5V,1,Link,1.69,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,Pipe,1m,1,Link,1.81,https://fr.aliexpress.com/item/1005005026348059.html?spm=a2g0o.productlist.main.14.650d601aISUFUZ&algo_pvid=b1b3a46a-3f70-482d-b92a-98b82410f343&algo_exp_id=b1b3a46a-3f70-482d-b92a-98b82410f343-14&pdp_ext_f=%7B%22order%22%3A%227114%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.22%211.22%21%21%219.59%219.59%21%40210390c217767167990554613e2674%2112000035441880430%21sea%21FR%214574440125%21X%211%210%21n_tag%3A-29919%3Bd%3Adeb9f4e8%3Bm03_new_user%3A-29895&curPageLogUid=WHp4W42rZr0k&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005026348059%7C_p_origin_prod%3A
+,,,,,73.65,
+,,,,,,
+"PCB (JLCPCB),Main PCB ,X,1,Upload GERBER on JLCPCB,1.7,""(I had a promo it's 3,4 instead)"""
+,Buttons PCB,X,1,,3.4,
+,,,,,,
+Décoration ,Log (for the base),14-16cm,2,Link,9.78,
+,Temple,X,1,Link,2.1,
+,Moss 1,20g,1,Link,1.72,
+,Moss 2,20g,1,Link,2.04,
+,Cherry tree,X,1,Link,3.89,
+,PLA black + white,1kg + 1kg,1,Link,20.12,
+,Bridge,X,1,Link,1.05,
+,,,,,40.7,
+,,,,,,
+,,,,,,
+Full price,150.39,,,,,
+Real price,94.51,,,,,
+,,,,,,
+Aliexpress,38.35,,,,,
+LCSC,30.94,,,,,
+Amazon,20.12,,,,,
+JLCPCB,5.1,,,,,
