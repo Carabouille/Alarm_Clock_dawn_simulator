@@ -391,7 +391,7 @@ Following that you need to setup all the components inside the box like the CAD
 
 <img src=Pictures/back_box.png width="400"/>
 
-Holes are here to support the support of the switch and the heat sink on the top of the box.
+Holes are here to support the support of the switch and the heat sink on the top of the box with screw M3.
 
 Place all the decoration elements on the top (like the moss, the tree, the temple, etc..)
 
