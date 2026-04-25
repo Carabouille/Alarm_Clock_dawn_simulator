@@ -373,13 +373,27 @@ Because I already have some components, I don't need to buy all this a second ti
 So for me the total is: 94,51€ (110,72$)
 
 
-# Build section 
+# Build it ! 
 
 To build this you first need to order all the components that you need. 
 
 After this it's time to print the box and all the others parts who are in the STL file. For the color : withe for the box, black for the buttons and the UwU eyes and pink for the knob et the UwU cheeks. for the support inside the box it's doesn't matter.
 
-You need to solder all the components on the pcb. And upload the code on the ESP32.
+You need to apply the epoxy resin on all the surfaces in direct contact with the water (like the river and the tank)
+
+Glue the log on the underside of the box 
+
+You need to solder all the components on the pcb (following the wiring diagram (view it on the kicad files)), and solder the external components (like the speaker, battery, etc) 
+
+Upload the code on the ESP32.
+
+Following that you need to setup all the components inside the box like the CAD 
+
+<img src=Pictures/back_box.png width="400"/>
+
+Holes are here to support the support of the switch and the heat sink on the top of the box.
+
+Place all the decoration elements on the top (like the moss, the tree, the temple, etc..)
 
 And after that You need to setup the timer of the alamr clock and that's ALL ! 
 
