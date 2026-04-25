@@ -280,29 +280,29 @@ The first part is the components that I'm going to order on LCSC (Overall, these
 |                                 | Capacitor               | 10n             | 2        | [C100042](https://www.lcsc.com/product-detail/C100042.html)                 | 0.23      |    X                             |
 |                                 |                         | 100n            | 26       | [C14663](https://www.lcsc.com/product-detail/C14663.html)                  | 0.56      |    X                             |
 |                                 |                         | 10u             | 4        | [C440198](https://www.lcsc.com/product-detail/C440198.html)                 | 1.27      |    X                             |
-|                                 |                         | 1u              | 1        | C28323                  | 0.24      |    X                             |
-|                                 |                         | 22u             | 5        | C342620                 | 2.1       |    X                             |
-|                                 |                         | 4,7u            | 2        | C98192                  | 0.18      |    X                             |
-|                                 | VEML7700-TT             | X               | 1        | C1850416                | 1.49      |    X                             |
-|                                 | FS8205A                 | X               | 1        | C2830320                | 0.52      |    X                             |
-|                                 | YLED0603B (led)         | Blue            | 1        | C19171394               | 0.54      |    X                             |
-|                                 | YLED0603G (led)         | Green           | 1        | C19273151               | 0.54      |    X                             |
-|                                 | KT-0603R (led)          | Red             | 1        | C2286                   | 0.59      |    X                             |
-|                                 | MAX98357AETE+T          | X               | 1        | C910544                 | 1.24      |    X                             |
-|                                 | MCP73871-2AAI/ML        | X               | 1        | C144351                 | 2.74      |    X                             |
-|                                 | MT3608                  | X               | 2        | C84817                  | 0.69      |    X                             |
-|                                 | SS14 (diode)            | X               | 2        | C2837270                | 0.48      |    X                             |
-|                                 | AHT20                   | X               | 1        | C2757850                | 0.58      |    X                             |
-|                                 | MCP23017T-E/ML          | X               | 1        | C629439                 | 1.46      |    X                             |
-|                                 | micro sd card port      | X               | 1        | C506790                 | 3.66      |    X                             |
-|                                 | USB-C port              | X               | 1        | C2765186                | 1.17      |    X                             |
-|                                 | DW01A                   | X               | 1        | C351410                 | 0.75      |    X                             |
-|                                 | Coil                    | 22u             | 2        | C2826664                | 0.64      |    X                             |
-|                                 | AMS1117-3.3             | X               | 1        | C6186                   | 0.99      |    X                             |
-|                                 | AO3400A                 | X               | 2        | C20917                  | 0.36      |    X                             |
-|                                 | FFC / FPC connector 1mm | 8 pins          | 4        | C262714                 | 0.99      |    X                             |
-|                                 |                         | 12 pins         | 2        | C262718                 | 1.1       |    X                             |
-|                                 | ESP32-S3-WROOM-1        | X               | 1        | C2913202                | 4.58      |    X                             |
+|                                 |                         | 1u              | 1        | [C28323](https://www.lcsc.com/product-detail/C28323.html)                  | 0.24      |    X                             |
+|                                 |                         | 22u             | 5        | [C342620](https://www.lcsc.com/product-detail/C342620.html)                 | 2.1       |    X                             |
+|                                 |                         | 4,7u            | 2        | [C98192](https://www.lcsc.com/product-detail/C98192.html)                  | 0.18      |    X                             |
+|                                 | VEML7700-TT             | X               | 1        | [C1850416](https://www.lcsc.com/product-detail/C1850416.html)                | 1.49      |    X                             |
+|                                 | FS8205A                 | X               | 1        | [C2830320](https://www.lcsc.com/product-detail/C2830320.html)                | 0.52      |    X                             |
+|                                 | YLED0603B (led)         | Blue            | 1        | [C19171394](https://www.lcsc.com/product-detail/C19171394.html)               | 0.54      |    X                             |
+|                                 | YLED0603G (led)         | Green           | 1        | [C19273151](https://www.lcsc.com/product-detail/C19273151.html)               | 0.54      |    X                             |
+|                                 | KT-0603R (led)          | Red             | 1        | [C2286](https://www.lcsc.com/product-detail/C2286.html)                   | 0.59      |    X                             |
+|                                 | MAX98357AETE+T          | X               | 1        | [C910544](https://www.lcsc.com/product-detail/C910544.html)                 | 1.24      |    X                             |
+|                                 | MCP73871-2AAI/ML        | X               | 1        | [C144351](https://www.lcsc.com/product-detail/C144351.html)                 | 2.74      |    X                             |
+|                                 | MT3608                  | X               | 2        | [C84817](https://www.lcsc.com/product-detail/C84817.html)                  | 0.69      |    X                             |
+|                                 | SS14 (diode)            | X               | 2        | [C2837270](https://www.lcsc.com/product-detail/C2837270.html)                | 0.48      |    X                             |
+|                                 | AHT20                   | X               | 1        | [C2757850](https://www.lcsc.com/product-detail/C2757850.html)                | 0.58      |    X                             |
+|                                 | MCP23017T-E/ML          | X               | 1        | [C629439](https://www.lcsc.com/product-detail/C629439.html)                 | 1.46      |    X                             |
+|                                 | micro sd card port      | X               | 1        | [C506790](https://www.lcsc.com/product-detail/C506790.html)                 | 3.66      |    X                             |
+|                                 | USB-C port              | X               | 1        | [C2765186](https://www.lcsc.com/product-detail/C2765186.html)                | 1.17      |    X                             |
+|                                 | DW01A                   | X               | 1        | [C351410](https://www.lcsc.com/product-detail/C351410.html)                 | 0.75      |    X                             |
+|                                 | Coil                    | 22u             | 2        | [C2826664](https://www.lcsc.com/product-detail/C2826664.html)                | 0.64      |    X                             |
+|                                 | AMS1117-3.3             | X               | 1        | [C6186](https://www.lcsc.com/product-detail/C6186.html)                   | 0.99      |    X                             |
+|                                 | AO3400A                 | X               | 2        | [C20917](https://www.lcsc.com/product-detail/C20917.html)                  | 0.36      |    X                             |
+|                                 | FFC / FPC connector 1mm | 8 pins          | 4        | [C262714](https://www.lcsc.com/product-detail/C262714.html)                 | 0.99      |    X                             |
+|                                 |                         | 12 pins         | 2        | [C262718](https://www.lcsc.com/product-detail/C262718.html)                 | 1.1       |    X                             |
+|                                 | ESP32-S3-WROOM-1        | X               | 1        | [C2913202](https://www.lcsc.com/product-detail/C2913202.html)                | 4.58      |    X                             |
 |      Total                      |                         |                 |          |                         | 30.94     |    X                             |
 |                                 |                         |                 |          |                         |           |    X                             |
 
