@@ -262,6 +262,12 @@ The things that I need to add:
 
 Now it's the time to do the BOM and order all our components! 
 
+I mainly used this site : 
+
+- https://www.lcsc.com/ for the components CMD
+- https://www.aliexpress.com for some electronics and decoration
+- https://jlcpcb.com for the PCB
+
 I split the BOM into different parts.
 
 The first part is the components that I'm going to order on LCSC (Overall, these are the CMD components)
