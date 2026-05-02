@@ -169,7 +169,7 @@ We also have a lot of connectors for the :
 - Buttons PCB
 - Battery
 
-You can see two footprint for a switch, if you wish to switch off the main power supply or just the battery power supply (!YOU NEED TO PLACE IT ! else the circuit is open)
+You can see two footprint for a switch (SW3 & SW4), if you wish to switch off the main power supply or just the battery power supply (!YOU NEED TO PLACE IT ! else the circuit is open)
 
 And after having done the wiring diagram, it's time to root all the components between them! 
 
