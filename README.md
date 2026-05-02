@@ -311,8 +311,8 @@ The first part is the components that I'm going to order on LCSC (Overall, these
 |                                 | FFC / FPC connector 1mm | 8 pins          | 4        | [C262714](https://www.lcsc.com/product-detail/C262714.html)                 | 0.99      |    X                             |
 |                                 |                         | 12 pins         | 2        | [C262718](https://www.lcsc.com/product-detail/C262718.html)                 | 1.1       |    X                             |
 |                                 | ESP32-S3-WROOM-1        | X               | 1        | [C2913202](https://www.lcsc.com/product-detail/C2913202.html)                | 4.58      |    X                             |
-|      Total                      |                         |                 |          |                         | 30.94     |    X                             |
-|                                 |                         |                 |          |                         |           |    X                             |
+|      Total                      |                         |                 |          |                         | 30.94     |                                 |
+|                                 |                         |                 |          |                         |           |                                 |
 
 The second part is for the other types of components like switch, pump, speaker, LED, etc...
 For the moment, it's only electronic components, all buy in Aliexpress
