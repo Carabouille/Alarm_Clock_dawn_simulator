@@ -169,6 +169,8 @@ We also have a lot of connectors for the :
 - Buttons PCB
 - Battery
 
+You can see two footprint for a switch, if you wish to switch off the main power supply or just the battery power supply (!YOU NEED TO PLACE IT ! else the circuit is open)
+
 And after having done the wiring diagram, it's time to root all the components between them! 
 
 This is my final solution:
@@ -315,7 +317,7 @@ The first part is the components that I'm going to order on LCSC (Overall, these
 The second part is for the other types of components like switch, pump, speaker, LED, etc...
 For the moment, it's only electronic components, all buy in Aliexpress
 
-| Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
+| Components               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
 |---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
 | Others components (not in LCSC) | Switch push buttons     | 6mm.6mm.5.5mm   | 17       | [Link](https://fr.aliexpress.com/item/1005001629177989.html)                    | 1.22      |                                  |
 |                                 | EC11 rotary encoder     | X               | 1        | [Link](https://fr.aliexpress.com/item/1005003824684681.html)                    | 1.33      |                                  |
@@ -337,13 +339,14 @@ For the moment, it's only electronic components, all buy in Aliexpress
 |                                 | epoxy resin             | 50ml + 50ml     | 1        | [Link](https://fr.aliexpress.com/item/1005007345256355.html)                      | 6.59      |        X                         |
 |                                 | Water pump              | 5V              | 1        | [Link](https://fr.aliexpress.com/item/1005006614378374.html)                      | 1.69      |        X                         |
 |                                 | Pipe                    | 1m              | 1        | [Link](https://fr.aliexpress.com/item/1005006614378374.html)                      | 1.81      |        X                         |
+|                                 | Switch                 | ON OFF ON              | 2        | [Link](https://fr.aliexpress.com/item/1005002461701337.html)                      | 2.4      |                                 |
 |                     Total       |                         |                 |          |                         | 73.65     |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
 
 
 In this last part we have the PCB, and all the elements of decoration 
 
-| Components LCSC :               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
+| Components               | name                    | value           | Quantity | LCSC code / link        | price (€) |                                  |
 |---------------------------------|-------------------------|-----------------|----------|-------------------------|-----------|----------------------------------|
 | PCB (JLCPCB)                    | Main PCB                | X               | 1        | Upload GERBER on JLCPCB | 3.4       | X                                |
 |                                 | Buttons PCB             | X               | 1        |                         | 3.4       |  X                               |
@@ -364,7 +367,7 @@ In this last part we have the PCB, and all the elements of decoration
 
 
 
-So the total for all this is 150,39€ (176,19$)
+So the total for all this is 152,80€ (179,21$)
 
 
 But have you noticed that there is cross on the right of certain product ?
