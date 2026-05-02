@@ -361,13 +361,13 @@ In this last part we have the PCB, and all the elements of decoration
 |                  Total          |                         |                 |          |                         | 42.7      |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
-| Full price                      | 152.39                  |                 |          |                         |           |                                  |
+| Full price                      | 153.94                  |                 |          |                         |           |                                  |
 | Real price (for me)             | 96.51                   |                 |          |                         |           |                                  |
 
 
 
 
-So the total for all this is 152,80€ (179,21$)
+So the total for all this is 153,94€ (180,55$)
 
 
 But have you noticed that there is cross on the right of certain product ?
