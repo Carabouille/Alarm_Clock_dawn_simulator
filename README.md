@@ -18,7 +18,7 @@ I'm not a good designer, but I think that I made a good poster
 
 ET VOILA : 
 
-<img src=Pictures/Zine_page_pic.jpg width="500"/>
+<img src=Vfinal.png width="500"/>
 
 The design idea is pretty simple: the alarm clock in the center and some arrows to explain the different parts of the project
 I explain here 7 features: 
