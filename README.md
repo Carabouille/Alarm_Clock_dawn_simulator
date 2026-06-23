@@ -417,4 +417,4 @@ Thanks to the reviewer !! I know the project is not easy to understand ;-;
 
 Thanks to Soup for the free koi with the streak ! 
 
-I really hope you will enjoy it and I really hope I'll see you in Shenzhen ^^
+I really hope you will enjoy it !
