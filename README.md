@@ -3,7 +3,8 @@ Hello, I'm Carabouille, a French guy who loves tech and hardware, and this is my
 I'm gonna present you my alarm clock with dawn simulator feature!
 
 AND see just how beautiful it is !!! Yeah I know I did a great job you can tell me ^^
-<img src=Vfinale_photo.jpg width="500"/>
+
+<img src=Vfinale_image.jpg width="500"/>
 
 
 # The idea 
