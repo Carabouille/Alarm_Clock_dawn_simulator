@@ -4,7 +4,11 @@ I'm gonna present you my alarm clock with dawn simulator feature!
 
 AND see just how beautiful it is !!! Yeah I know I did a great job you can tell me ^^
 
-<img src=Vfinale_image.jpg width="500"/>
+<img src=Vfinale_img.jpg width="500"/>
+
+And to see how it works in details you can watch the video that I did on my alarm clock : 
+
+https://discord.com/channels/778672711937163305/1317174161516269598/1519769931808509963
 
 
 # The idea 
