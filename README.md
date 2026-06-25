@@ -6,9 +6,9 @@ AND see just how beautiful it is !!! Yeah I know I did a great job you can tell 
 
 <img src=Vfinale_img.jpg width="500"/>
 
-And to see how it works in details you can watch the video that I did on my alarm clock : 
+And to see how it works in details you can watch the video that I did on my alarm clock : (CLICK ON MY AWESOME FACE !)
 
-https://youtube.com/shorts/Zd3teZ0syxg?is=twMNRqYv1_Rju3fP
+[![Clicl here !](https://img.youtube.com/vi/Zd3teZ0syxg/0.jpg)](https://youtube.com/shorts/Zd3teZ0syxg)
 
 
 # The idea 
