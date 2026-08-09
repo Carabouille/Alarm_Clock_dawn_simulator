@@ -379,10 +379,7 @@ In this last part we have the PCB, and all the elements of decoration
 So the total for all this is 153,94€ (180,55$)
 
 
-But have you noticed that there is cross on the right of certain product ?
-Because I already have some components, I don't need to buy all this a second time.
 
-So for me the total is: 94,51€ (110,72$)
 
 
 # Build it ! 
