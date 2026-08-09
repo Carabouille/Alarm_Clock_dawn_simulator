@@ -371,7 +371,6 @@ In this last part we have the PCB, and all the elements of decoration
 |                                 |                         |                 |          |                         |           |                                  |
 |                                 |                         |                 |          |                         |           |                                  |
 | Full price                      | 153.94                  |                 |          |                         |           |                                  |
-| Real price (for me)             | 96.51                   |                 |          |                         |           |                                  |
 
 
 
